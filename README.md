@@ -26,3 +26,6 @@ The project seeks to develop a monitoring system enabling remote supervision of 
 4. Node MCU: an open-source IoT platform based on the ESP8266 Wi-Fi module.						
 5. Arduino UNO: a popular open-source microcontroller board based on the ATmega328P.					
 6. 16X2 LCD Display: a basic, widely used alphanumeric screen capable of showing 16 characters per line on 2 lines.
+
+   ![hardware](https://github.com/user-attachments/assets/aaa2f153-c661-4bb4-9b0b-68cdae85a18b)
+
